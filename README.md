@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Raypi27
 - 👀 I’m interested in Programing, 
-Informatics, DIY some lego and hotwheels...
-- 🌱 I’m currently learning...Python and C#
-- 💞️ I’m looking to collaborate on ...make a game
+technology and Diy...
+- 🌱 I’m currently learning... Rust
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...by e-mail
 
 <!---
